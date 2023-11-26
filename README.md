@@ -1,5 +1,9 @@
-# Curseforge Mirror Template
+# SharedMedia_dnnsGT Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of dnnsGT's SharedMedia_dnnsGT
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/sharedmedia_dnnsgt)
+
+----
+
+To open a ticket related to this repository, please do so on [this repository](https://github.com/curseforge-mirror/.github)
